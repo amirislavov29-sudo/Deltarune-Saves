@@ -4,3 +4,5 @@ CONSUMER 1-A
 ARMOR 1-A
 FAILURE
 SWORD
+
+Also don't got any apples.
