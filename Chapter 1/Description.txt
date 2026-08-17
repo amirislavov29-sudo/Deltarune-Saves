@@ -1,0 +1,20 @@
+1. "True Pacifist without almost all achievements + all bosses + without apples":
+   True Pacifist — all achievements except the following are intentionally not collected:
+   PAIN 1-A
+   CONSUMER 1-A
+   ARMOR 1-A
+   FAILURE
+   SWORD
+   Also, defeat all bosses and don't get any apples.
+
+2. "True Pacifist without almost all achievements + no secret bosses + without apples":
+   True Pacifist — all achievements except the following are intentionally not collected:
+   PAIN 1-A
+   CONSUMER 1-A
+   ARMOR 1-A
+   FAILURE
+   SWORD
+   Don't defeat any secret bosses and don't get any apples.
+
+3. "No Mercy with all achievements + all bosses + without apples":
+   No Mercy with all achievements, defeat all bosses, and also don't get any apples.
